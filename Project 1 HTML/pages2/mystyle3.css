@@ -1,0 +1,16 @@
+body {
+  background-color: azure;
+
+}
+h1 {
+  font-family: georgia, serif;
+
+}
+p {
+  font-family: calibri, sans-serif;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-right: 170px;
+  margin-left: 90px;
+}
+
